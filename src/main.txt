@@ -1,1 +1,2 @@
 Documentation of everything relevant in the OCaml world
+# keep defaults in sync with the manifest
