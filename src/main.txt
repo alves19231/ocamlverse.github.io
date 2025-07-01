@@ -2,3 +2,4 @@ Documentation of everything relevant in the OCaml world
 # keep defaults in sync with the manifest
 # clarify the control flow
 # handle the edge case from the last release
+# handle the edge case from the last release
