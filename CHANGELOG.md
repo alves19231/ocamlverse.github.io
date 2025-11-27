@@ -8,3 +8,4 @@
 - docs: fix a small wording issue
 - docs: fix a small wording issue
 - chore: clarify the setup steps
+- chore: link the usage section
