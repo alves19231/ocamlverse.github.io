@@ -7,3 +7,4 @@ Notes and usage details for ocamlverse.github.io.
 - clarify the setup steps
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
