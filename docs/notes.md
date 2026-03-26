@@ -9,3 +9,4 @@ Notes and usage details for ocamlverse.github.io.
 - link the usage section
 - clarify the setup steps
 - fix a small wording issue
+- fix a small wording issue
